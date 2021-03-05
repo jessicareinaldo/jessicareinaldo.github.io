@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jessica Reinaldo"
-  avatar           : "/assets/images/bio-photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist (UFRGS, Brazil), BAC+5 in Information Systems Engineering (Ensimag, France)."
   location         : "Recife, Brazil"
   email            :
