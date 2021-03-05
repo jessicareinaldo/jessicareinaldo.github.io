@@ -8,7 +8,8 @@ main:
     url: /education/
   - title: 'Portfolio'
     url: /portfolio/
-    
+  - title: 'Other test'
+    url: /test/  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
