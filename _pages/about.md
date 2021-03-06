@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
----
+title:  "About me"
+layout: archive
+permalink: /about/
+author_profile: true
+comments: false # true
+------
 
 My name is Inigo Montoya. I have the following qualities:
 
